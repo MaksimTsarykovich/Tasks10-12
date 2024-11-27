@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="488bdd2b-d003-444b-b4b2-0a2a01292283" name="localhost" url="http://localhost">
+        <fileTransfer mountedRoot="\\wsl$\Ubuntu-24.04\var\www\myproject" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
